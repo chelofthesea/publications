@@ -170,6 +170,7 @@
 
 | Podcast | Guest | Date | Topic(s) |
 | --- | --- | --- | --- |
+| [ASW 178](https://securityweekly.com/shows/evolving-security-testing-dan-guido-asw-178/) | Dan Guido | December 2021 | Evolving Security Testing |
 | [Press Freedom Foundation](https://www.twitch.tv/videos/1102962356) | Dan Guido | July 2021 | Mobile security and iVerify |
 | [Employee Cycle](https://employeecycle.com/podcast/how-to-onboard-yourself-as-the-first-people-leader-with-hannah-hanks/) | Hannah Hanks | Mar 2021 | First PeopleOps hire |
 | [Risky Business 614](https://risky.biz/RB614/) | Dan Guido | Feb 2021 | iVerify |
